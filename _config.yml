@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: My first Programming Project
 header-img: img/home-bg.png
 email: malbazaz@mba2018.hbs.edu
 copyright_name: malbazaz
 description: > # this means to ignore newlines until "baseurl:"
-  
+  CLI Project: Arsenal
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  malbazaz
