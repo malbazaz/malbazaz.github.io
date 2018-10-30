@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Learning, Curiosity and Patience"
-date:       2018-10-30 22:18:53 +0000
+date:       2018-10-30 18:18:54 -0400
 permalink:  learning_curiosity_and_patience
 ---
 
